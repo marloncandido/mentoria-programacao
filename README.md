@@ -11,3 +11,5 @@ Comandos dentro de Terminal:
 - ls [Enter]: lista todos arquivos que estão na pasta atual
 - mkdir pasta [Enter]: cria uma nova pasta
 - se clicar nas setas "pra baixo" ou "pra cima", transita entre os ultimos comandos realizados
+- Ctrl+Shift+C: Copiar
+- Ctrl+Shift+V: Colar
