@@ -13,3 +13,6 @@ Comandos dentro de Terminal:
 - se clicar nas setas "pra baixo" ou "pra cima", transita entre os ultimos comandos realizados
 - Ctrl+Shift+C: Copiar
 - Ctrl+Shift+V: Colar
+
+Comandos dentro do programa C:
+- Ctrl+S: Salvar
